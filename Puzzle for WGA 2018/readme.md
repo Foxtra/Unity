@@ -14,4 +14,5 @@ Introduction:
 - Player needs to move green, red and yellow blocks through empty cells and get 3 colums of same color blocks.
 - Player can pick up block by Left Mouse button and put it to the next empty cell by Left Mouse button again.
 > Only horizontal and vertical movement is accessible.
+
 > Right Mouse button returns the taken block to its position.
