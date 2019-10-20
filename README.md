@@ -1,2 +1,2 @@
 # Unity
-Unity projects
+Unity projects can be downloaded separetly by selecting certain branch.
