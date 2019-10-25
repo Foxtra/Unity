@@ -14,6 +14,9 @@ public class GameController : MonoBehaviour
     //A reference to the UI text component that displays the player's score.
     public Text scoreText;
 
+    //A reference to the UI button component that displays when the player dies.
+    public Button restartButton;
+
     //Is the game over?
     public bool gameOver = false;
 
@@ -37,11 +40,11 @@ public class GameController : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    
-    void Update()
+
+    public void ChangeScene()
     {
         //If the game is over and the player has pressed some input...
-        if (gameOver && Input.GetMouseButtonDown(0))
+        if (gameOver)
         {
             //...reload the current scene.
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -67,6 +70,9 @@ public class GameController : MonoBehaviour
     {
         //Activate the game over text.
         gameOverText.SetActive(true);
+
+        //Activate the game over button.
+        restartButton.gameObject.SetActive(true);
 
         //Set the game to be over.
         gameOver = true;
