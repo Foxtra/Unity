@@ -1102,7 +1102,7 @@ MonoBehaviour:
   scoreText: {fileID: 843099957}
   restartButton: {fileID: 405098620}
   gameOver: 0
-  scrollSpeed: -2.5
+  scrollSpeed: -3
 --- !u!4 &1587301382
 Transform:
   m_ObjectHideFlags: 0
