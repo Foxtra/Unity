@@ -23,4 +23,4 @@ Bonus can be one of four types:
 
 ### Warning: Using Rigidbody/RigidBody2D is forbidden while developing.
 
-The project was made on Unity 2019.1.7.f1 version.
+The project was made on Unity 2019.1.7f1 version.
