@@ -5,7 +5,7 @@ This project was made using [Unity tutorial](https://learn.unity.com/tutorial/li
 The Bird flyes to the right and the goal is to avoid collisions with columns and ground 
 (actually the background and columns are moving to the left).
 
-The Bird is going down slowly and it goes up only when the player clicks Left Mouse Button.
+The Bird is constantly going down and it goes up only when the player clicks Left Mouse Button.
 
 The project contains two forlders: *Release* and *Source*:
 
