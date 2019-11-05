@@ -21,6 +21,6 @@ Bonus can be one of four types:
 - > Add extra ball;
 - > Increase size of platform.
 
-### Warning: Using Rigidbody/RigidBody2D is forbidden while developing.
+**Warning: Using Rigidbody/RigidBody2D is forbidden while developing this project.**
 
 The project was made on Unity 2019.1.7f1 version.
