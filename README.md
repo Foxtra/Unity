@@ -8,8 +8,11 @@ This project was made as test work for job applying.
 
 After all blocks were destroyed, level is switched.
 - The game has 3 levels:
+
 > On the first level blocks have 1 health (1 ball-hit to destroy);
+
 > On the second level blocks have different health;
+
 > On the third level blocks have different health and after being destroyed they can produce a bonus.
 
 Bonus can be one of four types:
