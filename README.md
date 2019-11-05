@@ -13,10 +13,10 @@ After all blocks were destroyed, level is switched.
 > On the third level blocks have different health and after being destroyed they can produce a bonus.
 
 Bonus can be one of four types:
->> Increase ball speed;
->> Decrease ball speed;
->> Add extra ball;
->> Increase size of platform.
+- > Increase ball speed;
+- > Decrease ball speed;
+- > Add extra ball;
+- > Increase size of platform.
 
 ### Warning: Using Rigidbody/RigidBody2D is forbidden while developing.
 
