@@ -13,6 +13,6 @@ Right Mouse Button is used to return the captured block.
 
 Every new game blocks are mixed.
 
-The project contains two forlders: Release and Source:
+The project contains two forlders: *Release* and *Source*:
 - Release folder contains build for PC.
 - Source folder contains Unity 2019.2.9f1 project (initial project was made with Unity 2018, new project contains some small bug fixes).
