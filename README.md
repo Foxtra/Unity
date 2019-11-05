@@ -1,4 +1,4 @@
-# Arkanoid
+# Arcanoid
 
 This project was made as test work for job applying.
 
